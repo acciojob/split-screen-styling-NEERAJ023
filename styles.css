@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+
+.box{
+	margin:0px;
+	padding:0px;
+	display:flex;
+}
+.navigation{
+	background-color:#D7E8D4;
+	width:16.66vw;
+	height:100vh;
+}
+.header , .footer{
+	background-color:yellowgreen;
+	height:20vh;
+}
+.content{
+	width:80vw;
+	display:flex;
+}
+.article{
+	width:75%;
+	min-height:60vh;
+	background-color:#ffffff;
+}
+.aside{
+	width:25%;
+	min-height:60vh;
+	background-color:#f5f5dc;
+}
