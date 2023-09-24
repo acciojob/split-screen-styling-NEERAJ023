@@ -4,7 +4,6 @@
 	padding:0px;
 }
 .box{
-	
 	display:flex;
 }
 .navigation{
@@ -23,13 +22,13 @@
 	display:flex;
 }
 .article{
-	width:75%;
+	flex:3;
 	min-height:60vh;
 	background-color:#ffffff;
 	padding:1em;
 }
 .aside{
-	width:25%;
+	flex:1;
 	min-height:60vh;
 	background-color:#f5f5dc;
 	padding:1em;
